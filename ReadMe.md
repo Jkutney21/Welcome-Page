@@ -27,9 +27,8 @@ I love building things, automating the boring, and learning something new every 
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Jkutney21&theme=tokyonight&hide_border=false&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jkutney21&show_icons=true&theme=tokyonight&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkutney21&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
@@ -39,7 +38,4 @@ I love building things, automating the boring, and learning something new every 
 
 ---
 
-# 🧭 Visitors
-[![](https://visitcount.itsvg.in/api?id=Jkutney21&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly generated using GPRM (https://gprm.itsvg.in) -->
