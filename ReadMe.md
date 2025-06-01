@@ -27,7 +27,8 @@ I love building things, automating the boring, and learning something new every 
 ---
 
 # 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jkutney21&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkutney21&theme=tokyonight&hide_border=false&layout=compact&count_private=true)
+
 
 
 ---
